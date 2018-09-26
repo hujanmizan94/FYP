@@ -1,0 +1,18 @@
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\FYP v.2\FYP v.2\bin\Debug\FYP v.2.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\FYP v.2\FYP v.2\bin\Debug\FYP v.2.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\FYP v.2\FYP v.2\obj\x86\Debug\FYP_v._2.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\FYP v.2\FYP v.2\obj\x86\Debug\FYP_v._2.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\FYP v.2\FYP v.2\obj\x86\Debug\FYP v.2.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\FYP v.2\FYP v.2\obj\x86\Debug\FYP v.2.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\FYP v.2\FYP v.2\obj\x86\Debug\FYP v.2.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\FYP v.2\FYP v.2\obj\x86\Debug\FYP v.2.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\FYP v.2\FYP v.2\bin\Debug\AForge.Imaging.dll
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\FYP v.2\FYP v.2\bin\Debug\AForge.dll
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\FYP v.2\FYP v.2\bin\Debug\AForge.Math.dll
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\FYP v.2\FYP v.2\bin\Debug\AForge.Imaging.xml
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\FYP v.2\FYP v.2\bin\Debug\AForge.xml
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\FYP v.2\FYP v.2\bin\Debug\AForge.Math.xml
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\FYP v.2\FYP v.2\bin\Debug\FYP v.2.exe.manifest
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\FYP v.2\FYP v.2\bin\Debug\FYP v.2.application
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\FYP v.2\FYP v.2\obj\x86\Debug\FYP v.2.exe.manifest
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\FYP v.2\FYP v.2\obj\x86\Debug\FYP v.2.application
